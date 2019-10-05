@@ -14,7 +14,7 @@ minimal_mistakes_skin    : "dark" # "default","air", "aqua", "contrast", "dark",
 locale                   : "en-GB"
 title                    : "CyberSoc - University of Liverpool"
 title_separator          : "-"
-subtitle                 : "Cyber Security Society at University of Liverpool" # site tagline that appears below site title in masthead
+subtitle                 : "You are an essential ingredient in our ongoing effort to reduce Security Risk ~Kirsten Manthorne" # site tagline that appears below site title in masthead
 name                     : "CyberSoc"
 description              : "Join us today for £3 and meet a supportive, like minded community who can help you to experience everything we offer, from thrilling CTFs to one of a kind talks from industry leaders and everything in between.."
 url                      : michalanisimow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
