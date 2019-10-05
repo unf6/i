@@ -16,7 +16,7 @@ title                    : "CyberSoc - University of Liverpool"
 title_separator          : "-"
 subtitle                 : "Ethical Penetration Testing" # site tagline that appears below site title in masthead
 name                     : "CyberSoc"
-description              : "Join us today for £3 and meet a supportive, like minded community who can help you to experience everything we offer, from thrilling CTFs to one of a kind talks from industry leaders and everything in between.."
+description              : "At CyberSoc we aim to teach the skills necessary to protect yourself online through events such as labs, CTFs, hackathons and talks."
 url                      : michalanisimow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : michalanisimow/michalanisimow.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
