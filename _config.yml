@@ -11,8 +11,8 @@
 minimal_mistakes_skin    : "dark" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "CyberSoc"
+locale                   : "en-GB"
+title                    : "CyberSoc | University of Liverpool"
 title_separator          : "-"
 subtitle                 : "Cyber Security Society @ Liverpool University" # site tagline that appears below site title in masthead
 name                     : "CyberSoc"
