@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Resources"
+    url: michalanisimow.github.io/resources
+  - title: "Discord"
+    url: https://discordapp.com/invite/p6qGd3D
+  - title: "Purchase Membership"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: michalanisimow.github.io/about
   # - title: "Sitemap"
   #   url: /sitemap/
