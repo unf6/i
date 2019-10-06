@@ -4,7 +4,7 @@ author_profile: false
 toc: true
 toc_label: "Resources"
 toc_icon: "cog"
-title: Resources 
+# title: Resources 
 ---
 
 # Slides
