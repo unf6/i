@@ -19,7 +19,7 @@ toc_icon: "cog"
 | [Kali Linux](https://www.kali.org/) | other |Collection of hacking tools |
 | [Wireshark](https://www.wireshark.org/) | Networks|A network packet sniffer/analyser |
 | [OllyDbg](http://www.ollydbg.de/) | debugger | X |
-| [Ghidra](https://ghidra-sre.org/ )| Reverse Engineering | X |
+| [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | X |
 | [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) |Disassembler| |
 | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) |Disassembler| X |
 | [JD-GUI](http://java-decompiler.github.io/) |Decompiler| X |
