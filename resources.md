@@ -6,7 +6,6 @@ author_profile: false
 # toc_icon: "cog"
 title: Resources 
 ---
-# Slides
 | Topic  | Date | 
 |:-----------------|:----------|
 | [Fresher's session 2019](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) |  08/20/19 |
