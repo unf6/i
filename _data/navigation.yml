@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Resources"
-    url: michalanisimow.github.io/resources
+    url: /resources
   - title: "Discord"
     url: https://discordapp.com/invite/p6qGd3D
   - title: "Purchase Membership"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://www.liverpoolguild.org/groups/cyber-security
   - title: "About"
-    url: michalanisimow.github.io/about
+    url: /about
   # - title: "Sitemap"
   #   url: /sitemap/
