@@ -1,11 +1,13 @@
 ---
 layout: single
 author_profile: false
-# toc: true
-# toc_label: "Resources"
-# toc_icon: "cog"
+toc: true
+toc_label: "Resources"
+toc_icon: "cog"
 title: Resources 
 ---
+
+# Slides
 
 | Slides  | Date | 
 |:--------|:-----|
