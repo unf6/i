@@ -2,7 +2,7 @@
 layout: calendar  # required
 title: My Calendar
 
-calendar_timezone_offset: -0800   # required
+calendar_timezone_offset: 0000   # required
 calendar_csv: assets/events.csv  # required. Path from base url
 
 calendar_focus_date: 2016-01-06   # optional. YYYY-MM-DD. Without it, the default is today
