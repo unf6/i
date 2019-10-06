@@ -1,7 +1,9 @@
 ---
 layout: single
 author_profile: false
-title: Resources
+toc: true
+toc_label: "Resources"
+toc_icon: "cog"
 ---
 # Presentations / Workshops
 [Fresher's session 2019](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | 
