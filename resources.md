@@ -23,7 +23,7 @@ toc_icon: "cog"
 
 # Vulnerable boxes / CTFs
 |Name|
-|:----------------
+|:----------------|
 |[Over The Wire](https://overthewire.org/wargames/) |
 |[Try Hack Me](https://tryhackme.com/dashboard) |
 |[Vuln Hub](https://www.vulnhub.com/) |
