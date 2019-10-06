@@ -16,12 +16,12 @@ toc_icon: "cog"
 # Tools
 | Name  | Category | Description |
 |:------|:---------|:------------|
-| [Kali Linux](https://www.kali.org/) |other|Collection of hacking tools|
-| [Wireshark](https://www.wireshark.org/) |Networks|A network packet sniffer/analyser|
-| [OllyDbg](http://www.ollydbg.de/) |debugger||
-| [Ghidra](https://ghidra-sre.org/ )|Reverse Engineering||
-| [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) |Disassembler||
-| [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) |Disassembler||
-| [JD-GUI](http://java-decompiler.github.io/) |Decompiler||
-| [Uncompyle2](https://github.com/Mysterie/uncompyle2) |Decompiler||
-| [Burp Suite](https://portswigger.net/burp) |Web App||
+| [Kali Linux](https://www.kali.org/) | other |Collection of hacking tools |
+| [Wireshark](https://www.wireshark.org/) | Networks|A network packet sniffer/analyser |
+| [OllyDbg](http://www.ollydbg.de/) | debugger | X |
+| [Ghidra](https://ghidra-sre.org/ )| Reverse Engineering | X |
+| [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) |Disassembler| |
+| [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) |Disassembler| X |
+| [JD-GUI](http://java-decompiler.github.io/) |Decompiler| X |
+| [Uncompyle2](https://github.com/Mysterie/uncompyle2) |Decompiler| X |
+| [Burp Suite](https://portswigger.net/burp) |Web App| X |
