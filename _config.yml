@@ -16,7 +16,7 @@ locale                   : "en-GB"
 title                    : "CyberSoc - Cyber Security Society at University of Liverpool"
 title_separator          : "-"
 subtitle                 : "Ethical Penetration Testing" # site tagline that appears below site title in masthead
-name                     : "CyberSoc and University of Liverpool"
+name                     : "CyberSoc"
 description              : "At CyberSoc we aim to teach the skills necessary to protect yourself online through events such as labs, CTFs, hackathons and talks."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -90,7 +90,7 @@ og_image                 : "/assets/images/logo_88x88.png" # Open Graph/Twitter 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
