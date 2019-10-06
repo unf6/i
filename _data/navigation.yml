@@ -1,16 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /about
-  - title: "Events"
-    url: /events
-  - title: "Resources"
-    url: /resources
-    
-  - title: "Discord"
-    url: https://discordapp.com/invite/p6qGd3D
-  - title: "Purchase Membership"
-    url: https://www.liverpoolguild.org/groups/cyber-security
-
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
