@@ -1,5 +1,4 @@
 ---
-layout: single
 author_profile: false
 toc: true
 toc_label: "Resources"
