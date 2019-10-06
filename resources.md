@@ -14,7 +14,7 @@ title: Resources
 | [Fresher's session](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) |  08/20/19 |
 | [Web exploitation](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | 02/09/19 |
 
-# Tools
+## Tools
 
 | Tools  | Category | Description |
 |:------|:---------|:------------|
@@ -28,7 +28,7 @@ title: Resources
 | [Uncompyle2](https://github.com/Mysterie/uncompyle2) | Decompiler | X |
 | [Burp Suite](https://portswigger.net/burp) | Web App | Proxy |
 
-# Learning resources (FREE)
+## Learning resources (FREE)
 
 | Learning resources | Description |
 |:-------------------|:------------|
@@ -39,7 +39,7 @@ title: Resources
 | [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) | X |
 | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Shows how to complete a HTB when you are stuck. |
 
-# Vulnerable boxes / CTFs
+## Vulnerable boxes / CTFs
 
 | Vulnerable boxes / CTFs |
 |:------------------------|
