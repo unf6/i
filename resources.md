@@ -12,6 +12,7 @@ toc_icon: "cog"
 [Web exploitation 2019](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | 02/09/19
 
 # Learning resources
+|Name|
 |:---------------------------|
 |[Immersive Labs](https://immersivelabs.online/signin) |
 |[Cybrary](https://www.cybrary.it/) |
@@ -21,6 +22,7 @@ toc_icon: "cog"
 |[IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)|
 
 # Vulnerable boxes / CTFs
+|Name|
 |:----------------
 |[Over The Wire](https://overthewire.org/wargames/) |
 |[Try Hack Me](https://tryhackme.com/dashboard) |
