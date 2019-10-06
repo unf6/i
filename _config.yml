@@ -16,7 +16,7 @@ locale                   : "en-GB"
 title                    : "CyberSoc - Cyber Security Society at University of Liverpool"
 title_separator          : "-"
 subtitle                 : "Ethical Penetration Testing" # site tagline that appears below site title in masthead
-name                     : "CyberSoc"
+name                     : "CyberSoc and University of Liverpool"
 description              : "At CyberSoc we aim to teach the skills necessary to protect yourself online through events such as labs, CTFs, hackathons and talks."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
