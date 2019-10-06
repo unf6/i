@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Upcoming Events for October 2019/20"
+title:  "Upcoming Events for October 2019/20" # _posts2019-09-31-October-Events-2019-20.md
 ---
 
 | Topic | Date | Location
