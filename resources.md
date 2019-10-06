@@ -12,6 +12,8 @@ title: Resources
 | [Fresher's session 2019](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) |  08/20/19 |
 | [Web exploitation 2019](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | 02/09/19 |
 
+# Tools
+
 | Tools  | Category | Description |
 |:------|:---------|:------------|
 | [Kali Linux](https://www.kali.org/) | other | Collection of hacking tools |
@@ -24,6 +26,8 @@ title: Resources
 | [Uncompyle2](https://github.com/Mysterie/uncompyle2) | Decompiler | X |
 | [Burp Suite](https://portswigger.net/burp) | Web App | X |
 
+# Education
+
 | Learning resources |
 |:-------------------|
 | [Immersive Labs](https://immersivelabs.online/signin) |
@@ -32,6 +36,8 @@ title: Resources
 | [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) |
 | [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |
 | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) |
+
+# CTFs
 
 | Vulnerable boxes / CTFs |
 |:------------------------|
