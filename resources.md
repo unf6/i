@@ -6,6 +6,7 @@ author_profile: false
 # toc_icon: "cog"
 title: Resources 
 ---
+
 # slides
 |        |      |
 | Topic  | Date | 
