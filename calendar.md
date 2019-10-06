@@ -1,4 +1,5 @@
 ---
+{% assign PATH_TO_COMPONENTS =  "/components" | prepend: site.baseurl %}
 layout: calendar  # required
 title: My Calendar
 
