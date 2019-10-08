@@ -7,4 +7,4 @@ Allow: /resources
 Allow: /events/
 Allow: /about/
 
-Sitemap: https://michalanisimow.github.io/robots.txt
+Sitemap: https://michalanisimow.github.io/sitemap.xml
