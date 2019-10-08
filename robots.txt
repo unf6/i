@@ -1,0 +1,10 @@
+# Nice try
+# WW91J3JlIHRoZSBvbmUgY29uc3RhbnQgaW4gYSBzZWEgb2YgdmFyaWFibGVzLg==
+User-Agent: *
+Disallow: /confidential/
+Allow: /
+Allow: /resources
+Allow: /events/
+Allow: /about/
+
+Sitemap: https://michalanisimow.github.io/robots.txt
