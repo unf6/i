@@ -3,7 +3,13 @@ layout: single
 author_profile: false
 ---
 
-We’re Liverpool Cyber Security society known as CyberSoc, the award winning society for the University of Liverpool. Our job is to create a home for each of students during their time at University of Liverpool, ensuring each student gets the most out of student life beyond a degree.
+We're the Cyber Security Society - Aka CyberSoc - at the University of Liverpool, we aim to provide a home for students to learn more about security in a fun, safe manner.
+
+We primarily run workshops, hold talks from industry and compete in CTFs but we're always looking for new events to run and people to meet!
+
+If you'd like to get in touch with us you find us here:
+[Twitter - cybersocuol](https://twitter.com/CyberSocUoL)
+[Email - cybersecurity@society.liverpoolguild.org](mailto:cybersecurity@society.liverpoolguild.org)
 
 | Year | President    | Vice    | Secretary | Events and Sponsorship | Treasurer |
 |:-----|:-------------|:------------------|:----------|:------------------------|:----------|
