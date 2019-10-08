@@ -38,7 +38,7 @@ title: Resources
 | [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) | Intro to security |
 | [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) | Teaches different pen testing techniques |
 | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | HTB walkthroughs |
-| [LiverOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | Youtuber who will teach you how to think in Cyber Sec |
+| [LiverOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | YouTuber who will teach you how to think in Cyber Sec |
 
 ## Vulnerable boxes / CTFs
 
