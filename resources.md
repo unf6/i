@@ -26,18 +26,18 @@ title: Resources
 | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) | Disassembler | X |
 | [JD-GUI](http://java-decompiler.github.io/) | Decompiler | Java decompiler |
 | [Uncompyle2](https://github.com/Mysterie/uncompyle2) | Decompiler | python decompiler |
-| [Burp Suite](https://portswigger.net/burp) | Web App | web pen testing framework |
+| [Burp Suite](https://portswigger.net/burp) | Web App | Web pen testing framework |
 
 ## Learning resources (FREE)
 
 | Learning resources | Description |
 |:-------------------|:------------|
-| [Immersive Labs](https://immersivelabs.online/signin) | X |
-| [Cybrary](https://www.cybrary.it/) | X |
-| [WSA by PortSwigger](https://portswigger.net/web-security) | X |
-| [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) | X |
-| [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) | X |
-| [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | Shows how to complete a HTB when you are stuck. |
+| [Immersive Labs](https://immersivelabs.online/signin) | Gamified learning platform |
+| [Cybrary](https://www.cybrary.it/) | Cyber security MOOCs |
+| [WSA by PortSwigger](https://portswigger.net/web-security) | Web security training with burp suite |
+| [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) | Intro to security |
+| [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) | Teaches different pen testing techniques |
+| [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | HTB walkthroughs |
 
 ## Vulnerable boxes / CTFs
 
