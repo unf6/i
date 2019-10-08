@@ -6,11 +6,9 @@ main:
     url: /events
   - title: "Resources"
     url: /resources
-    
   - title: "Discord"
     url: https://discordapp.com/invite/p6qGd3D
   - title: "Purchase Membership"
     url: https://www.liverpoolguild.org/groups/cyber-security
-
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Code of Conduct"
+    url: /code-of-conduct/
