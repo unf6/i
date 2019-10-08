@@ -9,7 +9,7 @@ title:  "Code of Conduct"
 
 2. Be inclusive. We welcome and support people of all backgrounds and identities. This includes, but is not limited to members of any sexual orientation, gender identity and expression, race, ethnicity, culture, national origin, social and economic class, educational level, color, immigration status, sex, age, size, family status, political belief, religion, and mental and physical ability.
 
-3. Be considerate. We all depend on each other to produce the best work we can as a company. Your decisions will affect clients and colleagues, and you should take those consequences into account when making decisions.
+3. Be considerate. We all depend on each other to produce the best work we can, your decisions will affect your fellow members and the reputation of the society. Your decisions will affect clients and colleagues, and you should take those consequences into account when making decisions.
 
 4. Be respectful. We won't all agree all the time, but disagreement is no excuse for disrespectful behavior. We will all experience frustration from time to time, but we cannot allow that frustration to become personal attacks. An environment where people feel uncomfortable or threatened is not a productive or creative one.
 
