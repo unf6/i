@@ -30,7 +30,7 @@ title: Resources
 
 ## Learning resources (FREE)
 
-| Learning resources | Description |
+| Topic | Description |
 |:-------------------|:------------|
 | [Immersive Labs](https://immersivelabs.online/signin) | Gamified learning platform |
 | [Cybrary](https://www.cybrary.it/) | Cyber security MOOCs |
@@ -41,7 +41,8 @@ title: Resources
 | [LiverOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | YouTuber who will teach you how to think in Cyber Sec |
 
 ## Vulnerable boxes / CTFs
-| Vulnerable boxes / CTFs | Description |
+
+| Topic | Description |
 |:------------------------|:------------|
 | [Over The Wire](https://overthewire.org/wargames/) | Security related wargames |
 | [Try Hack Me](https://tryhackme.com/dashboard) | Educational VMs and CTFs |
