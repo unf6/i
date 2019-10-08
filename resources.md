@@ -18,15 +18,15 @@ title: Resources
 
 | Tools  | Category | Description |
 |:------|:---------|:------------|
-| [Kali Linux](https://www.kali.org/) | other | Collection of hacking tools |
+| [Kali Linux](https://www.kali.org/) | other |Linux distro optimised for pentesting |
 | [Wireshark](https://www.wireshark.org/) | Networks | A network packet sniffer/analyser |
-| [OllyDbg](http://www.ollydbg.de/) | debugger | X |
-| [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | X |
+| [OllyDbg](http://www.ollydbg.de/) | debugger | x86 debugger |
+| [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | NSA RE tool |
 | [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) | Disassembler | X |
 | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) | Disassembler | X |
-| [JD-GUI](http://java-decompiler.github.io/) | Decompiler | X |
-| [Uncompyle2](https://github.com/Mysterie/uncompyle2) | Decompiler | X |
-| [Burp Suite](https://portswigger.net/burp) | Web App | Proxy |
+| [JD-GUI](http://java-decompiler.github.io/) | Decompiler | Java decompiler |
+| [Uncompyle2](https://github.com/Mysterie/uncompyle2) | Decompiler | python decompiler |
+| [Burp Suite](https://portswigger.net/burp) | Web App | web pen testing framework |
 
 ## Learning resources (FREE)
 
