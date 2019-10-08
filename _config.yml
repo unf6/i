@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "darker" # "default","air", "aqua", "contrast", "dark
 locale                   : "en-GB"
 title                    : "CyberSoc - Cyber Security Society at University of Liverpool"
 title_separator          : "-"
-subtitle                 : "Ethical Penetration Testing" # site tagline that appears below site title in masthead
+subtitle                 : "University of Liverpool" # site tagline that appears below site title in masthead
 name                     : "CyberSoc"
 description              : "At CyberSoc we aim to teach the skills necessary to protect yourself online through events such as labs, CTFs, hackathons and talks."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
