@@ -1,3 +1,47 @@
+When adding new posts go to https://github.com/cybersocuol/cybersocuol.github.io/tree/master/_posts and create a file with the following format:
+---
+layout: single
+title:  "A fun title!"
+---
+[link](https://www.liverpoolguild.org/groups/cyber-security) text
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam finibus erat ac facilisis luctus. Nulla quis dolor eu velit vehicula bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sit amet ipsum at lorem fringilla mattis vitae blandit nisl. Suspendisse accumsan, eros non congue pulvinar, enim diam varius tellus, eu iaculis ex nisl id eros. Praesent elit est, laoreet sed lorem ut, dignissim maximus enim. Vestibulum accumsan eleifend viverra. Mauris lobortis urna euismod, vehicula purus vel, accumsan lectus. Praesent ac ultricies ligula, ac interdum odio. Donec ultrices felis luctus leo imperdiet sagittis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse eget tempor felis. Ut nec gravida orci. Nam tincidunt non risus a tristique. Suspendisse pharetra bibendum ante eu imperdiet. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
@@ -9,13 +53,6 @@ Minimal Mistakes is a flexible two-column Jekyll theme, perfect for building per
 :sparkles: See what's new in the [CHANGELOG](CHANGELOG.md).
 
 **Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
-
-[![Minimal Mistakes live preview][2]][1]
-
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
-
-![layout examples](screenshot-layouts.png)
 
 ## Notable features
 
