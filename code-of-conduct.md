@@ -1,6 +1,7 @@
 ---
 layout: single
-title:  "Code of Conduct.md
+author_profile: false
+title:  "Code of Conduct"
 ---
 # Code of Conduct
 0. Anything we teach you is for educational purposes only! __You are responsible for your actions__,we do not condone any behaviour which violates university regulations or the law
