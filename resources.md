@@ -18,7 +18,7 @@ title: Resources
 
 | Tools  | Category | Description |
 |:------|:---------|:------------|
-| [Kali Linux](https://www.kali.org/) | other |Linux distro optimised for pentesting |
+| [Kali Linux](https://www.kali.org/) | other | Linux distro optimised for pentesting |
 | [Wireshark](https://www.wireshark.org/) | Networks | A network packet sniffer/analyser |
 | [OllyDbg](http://www.ollydbg.de/) | debugger | x86 debugger |
 | [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | NSA RE tool |
@@ -41,16 +41,15 @@ title: Resources
 | [LiverOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | YouTuber who will teach you how to think in Cyber Sec |
 
 ## Vulnerable boxes / CTFs
-
-| Vulnerable boxes / CTFs |
-|:------------------------|
-| [Over The Wire](https://overthewire.org/wargames/) | 
-| [Try Hack Me](https://tryhackme.com/dashboard) |
-| [Vuln Hub](https://www.vulnhub.com/) |
-| [Hack The Box](https://www.hackthebox.eu/home) |
-| [CTF Time](https://ctftime.org/event/list/upcoming) |
-| [CSAW CTF](https://365.csaw.io/) |
-| [Defcon CTFs](https://ctftime.org/ctf/1/) |
-| [Cryptopals](https://cryptopals.com/) |
-| [IO Wargame](https://io.netgarage.org/) |
-| [FlareOn CTFs](http://flare-on.com/) |
+| Vulnerable boxes / CTFs | Description |
+|:------------------------|:------------|
+| [Over The Wire](https://overthewire.org/wargames/) | Security related wargames |
+| [Try Hack Me](https://tryhackme.com/dashboard) | Educational VMs and CTFs |
+| [Vuln Hub](https://www.vulnhub.com/) | Download vulnerable VMs |
+| [Hack The Box](https://www.hackthebox.eu/home) | Vulnerable VMs hosted online |
+| [CTF Time](https://ctftime.org/event/list/upcoming) | CTF calendar |
+| [CSAW CTF](https://365.csaw.io/) | CTFs by NYU |
+| [Defcon CTFs](https://ctftime.org/ctf/1/) | CTFs - Qualifiers for Defcon ctfs |
+| [Cryptopals](https://cryptopals.com/) | Cryptography challenges |
+| [IO Wargame](https://io.netgarage.org/) | RE challenges |
+| [FlareOn CTFs](http://flare-on.com/) | RE challenges by FireEye |
