@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title:  "Code of Conduct"
 ---
-0. Anything we teach you is for educational purposes only! __You are responsible for your actions__,we do not condone any behaviour which violates university regulations or the law
+0. Anything we teach you is for educational purposes only! __You are responsible for your actions__, we do not condone any behaviour which violates university regulations or the law
 
 1. Be patient and courteous. Treat everyone the way you would want to be treated with respect and kidness.
 
