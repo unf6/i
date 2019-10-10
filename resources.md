@@ -11,8 +11,9 @@ title: Resources
 
 | Topic  | Date | 
 |:--------|:-----|
-| [Fresher's session](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) |  08/20/19 |
-| [Web exploitation](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | 02/09/19 |
+| [Fresher's session](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | 25/09/19 |
+| [Web exploitation](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | 02/10/19 |
+| [Networking and Forensics](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) | 09/10/19 | 
 
 ## Tools
 
