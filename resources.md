@@ -33,7 +33,7 @@ title: Resources
 
 | Topic | Description |
 |:-------------------|:------------|
-| [Immersive Labs](https://immersivelabs.online/signin) | Gamified learning platform |
+| [Immersive Labs](https://dca.immersivelabs.online/) | Gamified learning platform |
 | [Cybrary](https://www.cybrary.it/) | Cyber security MOOCs |
 | [WSA by PortSwigger](https://portswigger.net/web-security) | Web security training with burp suite |
 | [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) | Intro to security |
