@@ -9,11 +9,13 @@ title: Resources
 
 ## Slides
 
-| Topic  | Date | 
-|:--------|:-----|
-| [Fresher's session](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | 25/09/19 |
-| [Web exploitation](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | 02/10/19 |
-| [Networking and Forensics](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) | 09/10/19 | 
+| Topic  | Date | Link 1 | Link 2 |
+|:--------|:-----|:-------|:-------|
+| Fresher's session | 25/09/19 | [pptx](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | [pdf](#) |
+| Web exploitation | 02/10/19 | [pptx](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | [pdf](#) |
+| Networking and Forensics | 09/10/19 | [pptx](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) | [pdf](#) |
+| Reverse Engineering | 16/10/19 | [pptx](#) | [pdf](#) |
+| CTF Fundamentals | 23/10/19 | [pptx](x) | [pdf](#) |
 
 ## Tools
 
