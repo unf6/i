@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 <script type="application/javascript">
   function getIP(json) {
     document.write(json.ip);
