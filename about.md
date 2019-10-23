@@ -10,7 +10,7 @@ We primarily run workshops, hold talks from industry and compete in CTFs but we'
 If you'd like to get in touch with us you find us here:
 [cybersecurity@society.liverpoolguild.org](mailto:cybersecurity@society.liverpoolguild.org)
 
-| Year | President    | Vice    | Secretary | Events and Sponsorship | Treasurer |
-|:-----|:-------------|:------------------|:----------|:------------------------|:----------|
-| 19/20 | Perry H | Andrew L | Mahir H |Michal A | Tim F |
+| Year | President | Vice | Secretary | Events & Sponsorship | Treasurer |
+|:-----|:----------|:-----|:----------|:---------------------|:----------|
+| 19/20 | Perry H | Michal A | Mahir H | Meg G | Tim F |
 | 18/19 | Perry H | Andrew L | Glen G | Brandon S | Tim F |
