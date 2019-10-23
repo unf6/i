@@ -15,7 +15,7 @@ title: Resources
 | Web exploitation | 02/10/19 | [pptx](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1Q-ZwDmHJ5ZwOtN5TNK0yyGdAf8z4ippj/view?usp=sharing) |
 | Networking and Forensics | 09/10/19 | [pptx](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1GnSMFCLk547dSw4F4oYseBL7KQ17v73h/view?usp=sharing) |
 | Reverse Engineering | 16/10/19 | [pptx](https://drive.google.com/file/d/1H2zpaitgvVXW6vSR3qA7K34ZEUQElzJm/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1UZTpiIxJsbtIX1HIr_KMg0F9HS6QpLn9/view?usp=sharing) |
-| CTF Fundamentals | 23/10/19 | [pptx](x) | [pdf](#) |
+| CTF Fundamentals | 23/10/19 | [pptx](https://drive.google.com/file/d/1V2aVv7PPrPaJmsed1fLTH8HHFLFmtWfR/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1hRfGFSC0_OTQevHJmCbBxpdso7_CX58q/view?usp=sharing) |
 
 ## Tools
 
