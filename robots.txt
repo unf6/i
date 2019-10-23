@@ -7,4 +7,5 @@ Allow: /resources
 Allow: /events/
 Allow: /about/
 Allow: /code-of-conduct/
+
 Sitemap: https://cybersoc.cf/sitemap.xml
