@@ -7,7 +7,7 @@ __October Events__
 
 | Event | Date | Location
 |:-----------------|:----------|:-----------|
-| Free Taster CTF | Wednesday 30th @ 13:00 | Elizabeth Gidney room (guild) |
+| __[HackBack CTF](https://tryhackme.com/hackback2)__ | __Saturday  @ 10:00 (October 26th)__  | __Elizabeth Gidney room (guild)__ || Free Taster CTF | Wednesday 30th @ 13:00 | Elizabeth Gidney room (guild) |
 
 __November Events__
 
