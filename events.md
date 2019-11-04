@@ -2,13 +2,6 @@
 layout: single
 title:  "Upcoming Events" # _posts2019-09-31-October-Events-2019-20.md
 ---
-
-__October Events__
-
-| Event | Date | Location | Notes 
-|:-----------------|:----------|:-----------|:-----------|
-| [Free Taster CTF](https://cdn.discordapp.com/attachments/505784646714261526/638073099119493141/CAPTURETHEFLAGCONCEPT_5.png) | Wednesday 30th @ 13:00 | Elizabeth Gidney room (guild) |
-
 __November Events__
 
 | Event | Date | Location | Notes
