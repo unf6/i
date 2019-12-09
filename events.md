@@ -6,4 +6,4 @@ __Upcoming Events__
 
 | Event | Date | Location | Notes
 |:-----------------|:----------|:-----------|:-----------|
-| Movie Afternoon | 11/12 @ 13:30 | Guidl Cinema | | 
+| Movie Afternoon | 11/12 @ 13:30 | Guild Cinema | N/A | 
