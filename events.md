@@ -6,5 +6,6 @@ __Upcoming Events__
 
 | Event | Date | Location | Notes
 |:-----------------|:----------|:-----------|:-----------|
+|.|.|.|.|
 
 Expect more events after 25th of January.
