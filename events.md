@@ -13,6 +13,6 @@ __Semester 2 2019/20__
 | TBD | 26/02 | 13:30 - TBD | Mandela room | |
 | TBD | 04/03 | 13:30 - TBD | Mandela room | |
 | TBD | 11/03 | 13:30 - TBD | Mandela room | |
-| __Annual General Meeting__ | 18/03 | 13:30 - TBD | Mandela Room |  |
+| __Annual General Meeting__ | __18/03__ | __13:30 - TBD__ | __Mandela Room__ |  |
 
 Keep an eye on this page and Discord for more details soon
