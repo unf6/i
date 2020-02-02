@@ -8,7 +8,7 @@ __Semester 2 2019/20__
 |:-----------------|:----------|:-----------|:-----------|:-----------|
 | Refershers Session - OSINT | 05/02 | 13:30 - 15:30 | Ashton Lecture Theatre | |
 | IYF Cyber Security Panel | 11/02 | 17:00 - 19:00 | G-Flex (CTL) | [Register](https://careerhub.liv.ac.uk/students/news/detail/926) |
-| Guest Session | 19/02 | 13:30 - 15:00 | Mandela Room | |
+| Lock Picking | 19/02 | 13:30 - 15:00 | Mandela Room | |
 | Metasploit | 26/02 | 13:30 - 15:30 | Mandela Room | [Set up](#) |
 | Wireshark | 04/03 | 13:30 - 15:30 | Ashton Lecture Theatre | [Set up](#) |
 | OWASP Juice Shop | 11/03 | 13:30 - 15:30 | Mandela Room | [Set up](https://github.com/bkimminich/juice-shop) |
