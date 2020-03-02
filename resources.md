@@ -24,7 +24,7 @@ title: Resources
 | [Kali Linux](https://www.kali.org/) | Other | Linux distro optimised for pentesting |
 | [Wireshark](https://www.wireshark.org/) | Networks | A network packet sniffer/analyser |
 | [OllyDbg](http://www.ollydbg.de/) | Debugger | x86 debugger |
-| [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | NSA RE tool |
+| [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) |
 | [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) | Disassembler | X |
 | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) | Disassembler | X |
 | [JD-GUI](http://java-decompiler.github.io/) | Decompiler | Java decompiler |
