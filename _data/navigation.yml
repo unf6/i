@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "CTF"
-    url: https://ctf.cybersoc.cf/challenges
   - title: "Events"
     url: /events
+  - title: "CTF"
+    url: https://ctf.cybersoc.cf/challenges
   - title: "Resources"
     url: /resources
   - title: "Discord"
