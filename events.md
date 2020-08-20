@@ -6,6 +6,8 @@ __Semester 2 2019/20__
 
 | Event | Date | Time | Location | Notes
 |:-----------------|:----------|:-----------|:-----------|:-----------|
-| __Annual General Meeting__ | __AFTER_EASTER__ | __AFTER_EASTER__ | __AFTER_EASTER__ | [Apply!](https://forms.gle/k6aWphzLyqCpzF4K7) |
+| __Test event number 1__ | __01/01__ | __13:00-15:00__ | __Ashton Building Room 00__ | [Apply!](https://www.google.com) |
+| __Another test event number 2 that's longer__ | __13:00-15:00__ | __Ashton Building Room 20__ | __AFTER_EASTER__ | [Apply!](https://www.google.com) |
+
 
 Keep an eye on this page or head over to Discord for more details.
