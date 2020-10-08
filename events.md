@@ -2,7 +2,7 @@
 layout: single
 title:  "Upcoming Events" # _posts2019-09-31-October-Events-2019-20.md 
 ---
-__Semester 2 2019/20__
+__Semester 2 2020/21__
 
 | Event | Date | Time | Location | Notes
 |:-----------------|:----------|:-----------|:-----------|:-----------|
