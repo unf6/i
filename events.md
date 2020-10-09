@@ -8,9 +8,9 @@ __Semester 2 2020/21__
 |:-----------------|:----------|:-----------|:-----------|:-----------|
   | __Installing Kali on Windows__ | __14/10/2020__ | __14:00-15:00__ | __Discord Voice Channel__ | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
   | Unix/Windows basics | 21/10/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
-  | Networking + wireshark | 28/10/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
+  | Networking + Wireshark | 28/10/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
   | NMAP 101 | 04/11/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
-  | DVWA Challenge | 11/11/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
+  | Web App Hacking | 11/11/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
   | Metasploit and Shells | 18/11/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
 
 Dates are subject to change, keep an eye on this page or head over to Discord for instant notifications.
