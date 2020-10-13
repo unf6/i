@@ -1,0 +1,32 @@
+<style type="text/css">.libchat_online, .libchat_modal_title, .libchat_offline, .button-top > a:nth-child(1), .top-nav-level-one-about-us, .uc-toolbar-settings-icon.uc-toolbar-settings{
+  display: none !important;
+}
+
+.edit-mode-page, html, body, .threecol.left-nav-content.tree-navigation, .group_left_panel_menu, .row .content, .title h1, #uc-groups-details-page, .powered-by, .uc-poweredby-nusdigital-logo, .uc-page-wrap {
+  background-color:  #2f3136 !important;
+}
+.row.content{
+  background: #2f3136 !important;
+}
+.button-bottom > a:nth-child(1){
+  background-color: #20C20E !important;
+}
+
+.title h1 {
+  color: white !important;
+}
+
+.title > h1 {
+  font-size: 24pt !important;
+  color: #20C20E !important;
+}
+
+#uc-groups-details-page{
+  color: white !important;
+}
+
+.powered-by{
+  border-top: none !important;
+}
+</style>
+ /* Made with love by CyberSoc */
