@@ -19,9 +19,16 @@ title: Resources
 
 ## Tools
 
+### Setup
+| Name | Description |
+| :---- | -- |
+| [Qbittorrent](https://www.qbittorrent.org/download.php) | Bittorrent client used to download the Kali image |
+| [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | Torrent hosted by the creators of Kali to allow you to run Kali in a VM |
+| [Virtualbox](https://www.virtualbox.org/wiki/Downloads) | Download page for virtualbox |
+
+### Misc
 | Tools  | Category | Description |
 |:------|:---------|:------------|
-| [Kali Linux](https://www.kali.org/) | Other | Linux distro optimised for pentesting |
 | [Wireshark](https://www.wireshark.org/) | Networks | A network packet sniffer/analyser |
 | [OllyDbg](http://www.ollydbg.de/) | Debugger | x86 debugger |
 | [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) |
