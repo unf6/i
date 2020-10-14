@@ -20,6 +20,7 @@ title: Resources
 ## Tools
 
 ### Setup
+
 | Name | Description |
 | :---- | -- |
 | [Qbittorrent](https://www.qbittorrent.org/download.php) | Bittorrent client used to download the Kali image |
@@ -27,6 +28,7 @@ title: Resources
 | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) | Download page for virtualbox |
 
 ### Misc
+
 | Tools  | Category | Description |
 |:------|:---------|:------------|
 | [Wireshark](https://www.wireshark.org/) | Networks | A network packet sniffer/analyser |
