@@ -6,7 +6,7 @@ __Dates are subject to change!__
 
 | Event | Date | Time | Location | Notes
 |:-----------------|:----------|:-----------|:-----------|:-----------|
-| Unix/Windows basics | 21/10/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
+| __Unix/Windows basics__ | __21/10/2020__ | __14:00-15:00__ | __Discord Voice Channel__ | __[Join Discord](https://discordapp.com/invite/p6qGd3D)__ |
 | Networking + Wireshark | 28/10/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
 | NMAP 101 | 04/11/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
 | Web App Hacking | 11/11/2020 | 14:00-15:00 | Discord Voice Channel | [Join Discord](https://discordapp.com/invite/p6qGd3D) |
