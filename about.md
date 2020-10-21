@@ -8,6 +8,7 @@ We're the Cyber Security Society - Aka CyberSoc - at the University of Liverpool
 We primarily organise workshops, hold talks from industry and compete in CTFs but we're always looking for new events to run and people to meet!
 
 If you'd like to get in touch with us you find us here:
+[https://www.cybersoc.cf/discord](cybersoc.cf/discord)
 [cybersecurity@society.liverpoolguild.org](mailto:cybersecurity@society.liverpoolguild.org)
 
 | Year | President | Vice | Secretary | Events & Sponsorship | Treasurer |
