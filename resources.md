@@ -6,26 +6,26 @@ toc_label: "Resources"
 toc_icon: "cog"
 title: Resources 
 ---
-### Setup
+### Recommended Setup
 
-| Name | Description |
-|:-----|-------------|
-| [Qbittorrent](https://www.qbittorrent.org/download.php) | Bittorrent client used to download the Kali image |
-| [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | Torrent hosted by the creators of Kali to allow you to run Kali in a VM |
-| [Virtualbox](https://www.virtualbox.org/wiki/Downloads) | Download page for virtualbox |
+| Description | Download |
+|:------------|:---------|
+| Bittorrent client used to download the Kali image | [Qbittorrent](https://www.qbittorrent.org/download.php) |
+|Torrent hosted by the creators of Kali to allow you to run Kali in a VM __Default Login: kali Password: kali__ | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | 
+| A hypervisor which allows to run one or more virtual machines | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) |
 
 ## Presentations 2020
 
-| Topic  | Date | Link 1 | 
-|:-------|:-----|:-------|
-| OSINT | 07/10/20 | https://www.youtube.com/watch?v=CRWhuJrXdEk&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=2 |
-| CTF Setup | 14/10/20 | https://www.youtube.com/watch?v=AILeheUYJPM&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=3 |
-| Introduction to reverse engineering | 21/10/20 | https://www.youtube.com/watch?v=_Il1pvhBRU8&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=4 |
+| Topic  | Date | Youtube | 
+|:-------|:-----|:--------|
+| OSINT | 07/10/20 | [YouTube](https://www.youtube.com/watch?v=CRWhuJrXdEk&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=2) |
+| CTF Setup | 14/10/20 | [YouTube](https://www.youtube.com/watch?v=AILeheUYJPM&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=3) |
+| Introduction to reverse engineering | 21/10/20 | [YouTube](https://www.youtube.com/watch?v=_Il1pvhBRU8&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=4) |
 
 ## Presentations 2019
 
-| Topic  | Date | Link 1 | Link 2 |
-|:-------|:-----|:-------|:-------|
+| Topic  | Date | Powerpoint | Pdf |
+|:-------|:-----|:-----------|:----|
 | Fresher's session | 25/09/19 | [pptx](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | [pdf](https://drive.google.com/file/d/1_feBd7_eHJk9KIFy0njafMqfP-NiTP02/view?usp=sharing) |
 | Web exploitation | 02/10/19 | [pptx](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1Q-ZwDmHJ5ZwOtN5TNK0yyGdAf8z4ippj/view?usp=sharing) |
 | Networking and Forensics | 09/10/19 | [pptx](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1GnSMFCLk547dSw4F4oYseBL7KQ17v73h/view?usp=sharing) |
@@ -34,40 +34,40 @@ title: Resources
 
 ### Misc
 
-| Tools  | Category | Description |
-|:-------|:---------|:------------|
-| [Wireshark](https://www.wireshark.org/) | Networks | A network packet sniffer/analyser |
-| [OllyDbg](http://www.ollydbg.de/) | Debugger | x86 debugger |
-| [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) |
-| [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) | Disassembler | X |
-| [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) | Disassembler | X |
-| [JD-GUI](http://java-decompiler.github.io/) | Decompiler | Java decompiler |
-| [Uncompyle2](https://github.com/Mysterie/uncompyle2) | Decompiler | python decompiler |
-| [Burp Suite](https://portswigger.net/burp) | Web App | Web pen testing framework |
+| Category | Description | Tools |
+|:---------|:------------|:------|
+| Networks | A network packet sniffer/analyser | [Wireshark](https://www.wireshark.org/) |
+| Debugger | x86 debugger | [OllyDbg](http://www.ollydbg.de/) | 
+| Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) | [Ghidra](https://ghidra-sre.org/ ) |
+| Disassembler | X | [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) |
+| Disassembler | X | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) |
+| Decompiler | Java decompiler | [JD-GUI](http://java-decompiler.github.io/) |
+| Decompiler | python decompiler | [Uncompyle2](https://github.com/Mysterie/uncompyle2) |
+| Web App | Web pen testing framework | [Burp Suite](https://portswigger.net/burp) | 
 
 ## Learning resources (FREE)
 
-| Topic | Description |
-|:------|:------------|
-| [Immersive Labs](https://dca.immersivelabs.online/) | Gamified learning platform |
-| [Cybrary](https://www.cybrary.it/) | Cyber security MOOCs |
-| [WSA by PortSwigger](https://portswigger.net/web-security) | Web security training with burp suite |
-| [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) | Intro to security |
-| [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) | Teaches different pen testing techniques |
-| [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | HTB walkthroughs |
-| [LiveOverflow](https://liveoverflow.com/) | YouTuber who will teach you how to think in Cyber Sec |
+| Description | Link |
+|:------------|:------|
+| Gamified learning platform | [Immersive Labs](https://dca.immersivelabs.online/) |
+| Cyber security MOOCs | [Cybrary](https://www.cybrary.it/) |
+| Web security training with burp suite | [WSA by PortSwigger](https://portswigger.net/web-security) |
+| Intro to security | [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) |
+| Teaches different pen testing techniques | [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |
+| HTB walkthroughs | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | 
+| YouTuber who will teach you how to think in Cyber Sec | [LiveOverflow](https://liveoverflow.com/) |
 
 ## Vulnerable boxes / CTFs
 
-| Topic | Description |
-|:------|:------------|
-| [Over The Wire](https://overthewire.org/wargames/) | Security related wargames |
-| [Try Hack Me](https://tryhackme.com/dashboard) | Educational VMs and CTFs |
-| [Vuln Hub](https://www.vulnhub.com/) | Download vulnerable VMs |
-| [Hack The Box](https://www.hackthebox.eu/home) | Vulnerable VMs hosted online |
-| [CTF Time](https://ctftime.org/event/list/upcoming) | CTF calendar |
-| [CSAW CTF](https://365.csaw.io/) | CTFs by NYU |
-| [Defcon CTFs](https://ctftime.org/ctf/1/) | CTFs - Qualifiers for Defcon ctfs |
-| [Cryptopals](https://cryptopals.com/) | Cryptography challenges |
-| [IO Wargame](https://io.netgarage.org/) | RE challenges |
-| [FlareOn CTFs](http://flare-on.com/) | RE challenges by FireEye |
+| Description | Link |
+|:------------|:------|
+| Security related wargames | [Over The Wire](https://overthewire.org/wargames/) |
+| Educational VMs and CTFs | [Try Hack Me](https://tryhackme.com/dashboard) |
+| Download vulnerable VMs | [Vuln Hub](https://www.vulnhub.com/) | 
+| Vulnerable VMs hosted online | [Hack The Box](https://www.hackthebox.eu/home) |
+| CTF calendar | [CTF Time](https://ctftime.org/event/list/upcoming) |
+| CTFs by NYU | [CSAW CTF](https://365.csaw.io/) |
+| CTFs - Qualifiers for Defcon ctfs | [Defcon CTFs](https://ctftime.org/ctf/1/) | 
+| Cryptography challenges | [Cryptopals](https://cryptopals.com/) | 
+| RE challenges | [IO Wargame](https://io.netgarage.org/) |
+| RE challenges by FireEye | [FlareOn CTFs](http://flare-on.com/) |
