@@ -17,7 +17,7 @@ title: Resources
 ## Presentations 2020
 | Topic  | Date | Link 1 | 
 |:-------|:-----|:-------|
-| OSINT | 08/10/20 | https://www.youtube.com/watch?v=CRWhuJrXdEk&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=2 |
+| OSINT | 07/10/20 | https://www.youtube.com/watch?v=CRWhuJrXdEk&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=2 |
 | CTF Setup | 14/10/20 | https://www.youtube.com/watch?v=AILeheUYJPM&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=3 |
 | Introduction to reverse engineering | 21/10/20 | https://www.youtube.com/watch?v=_Il1pvhBRU8&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=4 |
 
