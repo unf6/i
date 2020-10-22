@@ -32,7 +32,7 @@ title: Resources
 | Reverse Engineering | 16/10/19 | [pptx](https://drive.google.com/file/d/1H2zpaitgvVXW6vSR3qA7K34ZEUQElzJm/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1UZTpiIxJsbtIX1HIr_KMg0F9HS6QpLn9/view?usp=sharing) |
 | CTF Fundamentals | 23/10/19 | [pptx](https://drive.google.com/file/d/1V2aVv7PPrPaJmsed1fLTH8HHFLFmtWfR/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1hRfGFSC0_OTQevHJmCbBxpdso7_CX58q/view?usp=sharing) |
 
-### Misc
+### Other Fun Tools
 
 | Category | Description | Tools |
 |:---------|:------------|:------|
