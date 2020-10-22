@@ -8,6 +8,7 @@ title: Resources
 ---
 
 ## Presentations 2019
+
 | Topic  | Date | Link 1 | Link 2 |
 |:-------|:-----|:-------|:-------|
 | Fresher's session | 25/09/19 | [pptx](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | [pdf](https://drive.google.com/file/d/1_feBd7_eHJk9KIFy0njafMqfP-NiTP02/view?usp=sharing) |
