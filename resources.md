@@ -10,9 +10,9 @@ title: Resources
 
 | Description | Download |
 |:------------|:---------|
-| Bittorrent client used to download the Kali image | [Qbittorrent](https://www.qbittorrent.org/download.php) |
-|Torrent hosted by the creators of Kali to allow you to run Kali in a VM __Default Login: kali Password: kali__ | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | 
-| A hypervisor which allows to run one or more virtual machines | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) |
+| Torrent Client | [Qbittorrent](https://www.qbittorrent.org/download.php) |
+| VM Images __Default Login: kali Password: kali__ | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | 
+| A hypervisor | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) |
 
 ## Presentations 2020
 
