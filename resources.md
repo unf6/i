@@ -7,8 +7,21 @@ toc_icon: "cog"
 title: Resources 
 ---
 
-## Slides
+### Setup
+| Name | Description |
+| :---- | -- |
+| [Qbittorrent](https://www.qbittorrent.org/download.php) | Bittorrent client used to download the Kali image |
+| [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | Torrent hosted by the creators of Kali to allow you to run Kali in a VM |
+| [Virtualbox](https://www.virtualbox.org/wiki/Downloads) | Download page for virtualbox |
 
+## Presentations 2020
+| Topic  | Date | Link 1 | 
+|:-------|:-----|:-------|
+| OSINT | 08/10/20 | https://www.youtube.com/watch?v=CRWhuJrXdEk&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=2 |
+| CTF Setup | 14/10/20 | https://www.youtube.com/watch?v=AILeheUYJPM&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=3 |
+| Introduction to reverse engineering | 21/10/20 | https://www.youtube.com/watch?v=_Il1pvhBRU8&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=4 |
+
+## Presentations 2019
 | Topic  | Date | Link 1 | Link 2 |
 |:--------|:-----|:-------|:-------|
 | Fresher's session | 25/09/19 | [pptx](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | [pdf](https://drive.google.com/file/d/1_feBd7_eHJk9KIFy0njafMqfP-NiTP02/view?usp=sharing) |
@@ -16,16 +29,6 @@ title: Resources
 | Networking and Forensics | 09/10/19 | [pptx](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1GnSMFCLk547dSw4F4oYseBL7KQ17v73h/view?usp=sharing) |
 | Reverse Engineering | 16/10/19 | [pptx](https://drive.google.com/file/d/1H2zpaitgvVXW6vSR3qA7K34ZEUQElzJm/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1UZTpiIxJsbtIX1HIr_KMg0F9HS6QpLn9/view?usp=sharing) |
 | CTF Fundamentals | 23/10/19 | [pptx](https://drive.google.com/file/d/1V2aVv7PPrPaJmsed1fLTH8HHFLFmtWfR/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1hRfGFSC0_OTQevHJmCbBxpdso7_CX58q/view?usp=sharing) |
-
-## Tools
-
-### Setup
-
-| Name | Description |
-| :---- | -- |
-| [Qbittorrent](https://www.qbittorrent.org/download.php) | Bittorrent client used to download the Kali image |
-| [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | Torrent hosted by the creators of Kali to allow you to run Kali in a VM |
-| [Virtualbox](https://www.virtualbox.org/wiki/Downloads) | Download page for virtualbox |
 
 ### Misc
 
