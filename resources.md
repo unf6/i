@@ -7,20 +7,6 @@ toc_icon: "cog"
 title: Resources 
 ---
 
-### Setup
-| Name | Description |
-|:-----|-------------|
-| [Qbittorrent](https://www.qbittorrent.org/download.php) | Bittorrent client used to download the Kali image |
-| [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | Torrent hosted by the creators of Kali to allow you to run Kali in a VM |
-| [Virtualbox](https://www.virtualbox.org/wiki/Downloads) | Download page for virtualbox |
-
-## Presentations 2020
-| Topic  | Date | Link 1 | 
-|:-------|:-----|:-------|
-| OSINT | 07/10/20 | https://www.youtube.com/watch?v=CRWhuJrXdEk&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=2 |
-| CTF Setup | 14/10/20 | https://www.youtube.com/watch?v=AILeheUYJPM&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=3 |
-| Introduction to reverse engineering | 21/10/20 | https://www.youtube.com/watch?v=_Il1pvhBRU8&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=4 |
-
 ## Presentations 2019
 | Topic  | Date | Link 1 | Link 2 |
 |:-------|:-----|:-------|:-------|
