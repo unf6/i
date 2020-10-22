@@ -9,7 +9,7 @@ title: Resources
 
 ### Setup
 | Name | Description |
-| :---- | -- |
+|:-----|-------------|
 | [Qbittorrent](https://www.qbittorrent.org/download.php) | Bittorrent client used to download the Kali image |
 | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | Torrent hosted by the creators of Kali to allow you to run Kali in a VM |
 | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) | Download page for virtualbox |
@@ -23,7 +23,7 @@ title: Resources
 
 ## Presentations 2019
 | Topic  | Date | Link 1 | Link 2 |
-|:--------|:-----|:-------|:-------|
+|:-------|:-----|:-------|:-------|
 | Fresher's session | 25/09/19 | [pptx](https://drive.google.com/open?id=1EjH3fUwpRcj9CamOM_03YdpY5_DNAvSS) | [pdf](https://drive.google.com/file/d/1_feBd7_eHJk9KIFy0njafMqfP-NiTP02/view?usp=sharing) |
 | Web exploitation | 02/10/19 | [pptx](https://drive.google.com/file/d/18t87wjQnJvos3y3Aq0zj9XNUVgfcFknQ/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1Q-ZwDmHJ5ZwOtN5TNK0yyGdAf8z4ippj/view?usp=sharing) |
 | Networking and Forensics | 09/10/19 | [pptx](https://drive.google.com/file/d/1BgcjrWAFEt7pOqRURU_PdbZXqO0BizK6/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1GnSMFCLk547dSw4F4oYseBL7KQ17v73h/view?usp=sharing) |
@@ -33,7 +33,7 @@ title: Resources
 ### Misc
 
 | Tools  | Category | Description |
-|:------|:---------|:------------|
+|:-------|:---------|:------------|
 | [Wireshark](https://www.wireshark.org/) | Networks | A network packet sniffer/analyser |
 | [OllyDbg](http://www.ollydbg.de/) | Debugger | x86 debugger |
 | [Ghidra](https://ghidra-sre.org/ ) | Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) |
@@ -46,7 +46,7 @@ title: Resources
 ## Learning resources (FREE)
 
 | Topic | Description |
-|:-------------------|:------------|
+|:------|:------------|
 | [Immersive Labs](https://dca.immersivelabs.online/) | Gamified learning platform |
 | [Cybrary](https://www.cybrary.it/) | Cyber security MOOCs |
 | [WSA by PortSwigger](https://portswigger.net/web-security) | Web security training with burp suite |
@@ -58,7 +58,7 @@ title: Resources
 ## Vulnerable boxes / CTFs
 
 | Topic | Description |
-|:------------------------|:------------|
+|:------|:------------|
 | [Over The Wire](https://overthewire.org/wargames/) | Security related wargames |
 | [Try Hack Me](https://tryhackme.com/dashboard) | Educational VMs and CTFs |
 | [Vuln Hub](https://www.vulnhub.com/) | Download vulnerable VMs |
