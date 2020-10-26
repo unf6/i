@@ -10,7 +10,7 @@ A special mention goes to Meg - our new Events and Sponsorship Officer - who com
 
 Another mention goes to one of our teams, BeEFBurger, who managed to finish 9th out of over 200 teams despite being a man down due to illness! 
 
-![BeeFBurger placement](https://media.discordapp.net/attachments/627956987409465374/637659406648999988/unknown.png?width=720&height=471)
+![BeeFBurger placement](/assets/images/posts/THM_2019.png)
 
 This was our best performance in a CTF ever - even beating the committee team at the last hackback who came 13th out of 73 teams!
 
