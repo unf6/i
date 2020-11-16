@@ -31,7 +31,7 @@ done:
 
 1. Make an announcement to all of your contacts (via a post, or messages 
    in a chat), telling them to not click any links you have sent them before
-   now, and to disregard messasges that you've been sent
+   now, and to disregard earlier messages.
 
 1. If there was private information attached to this account, you should
    treat it as compromised, and plan accordingly. It is unlikely that it
@@ -55,8 +55,10 @@ You also (probably) want to minimise the risk of this happening again:
    that even if someone has your personal details, they still can't get in
    to those accounts.
 
-1. Check the url for any website that asks you to login. If it looks even
-   the slightest bit odd or unexpected, don't fill it in.
+1. Check the URL of any website that asks you to login. If it looks even
+   the slightest bit odd or unexpected, don't fill it in. If it is missing
+   the padlock icon, don't fill it in. If you're sure that you have already
+   logged in, don't fill it in.
 
 1. Share all of this information (or this page) with anyone who you think
    could be compromised. This doesn't just help them, but also limits the
