@@ -3,7 +3,7 @@ layout: single
 title: "Account Recovery"
 ---
 
-* Have recently logged into a page, and it didn't work or sent you to a 
+* Have you recently logged into a page, and it didn't work or sent you to a 
 different page?
 
 * Have messages been sent from your account that you don't recognise?
