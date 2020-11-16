@@ -4,7 +4,7 @@ title: "Account Recovery"
 ---
 
 * Have you recently logged into a page, and it didn't work or sent you to a 
-different page?
+  different page?
 
 * Have messages been sent from your account that you don't recognise?
 
@@ -20,8 +20,9 @@ damage.
 1. CHANGE YOUR PASSWORD! This is the most likely way the attackers got 
    in, and therefore is the best way to kick them out
 
-1. Check to see if any new email addresses have been added to your 
-   account. Attackers can use this to reset your password.
+1. Check to see if any new email addresses have been linked to your 
+   account (recovery emails, notification emails, etc). Attackers can
+   use this to reset your password.
 
 Now that you have blocked them out, try to undo any damage they have 
 done:
@@ -59,6 +60,10 @@ You also (probably) want to minimise the risk of this happening again:
    the slightest bit odd or unexpected, don't fill it in. If it is missing
    the padlock icon, don't fill it in. If you're sure that you have already
    logged in, don't fill it in.
+   
+1. Consider using a password manager that generates passwords for you.
+   Whilst it doesn't stop attackers who steal your password, it does stop
+   those who try to guess it.
 
 1. Share all of this information (or this page) with anyone who you think
    could be compromised. This doesn't just help them, but also limits the
