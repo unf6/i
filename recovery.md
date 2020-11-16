@@ -3,12 +3,14 @@ layout: single
 title: "Account Recovery"
 ---
 
-Have recently logged into a page, and it didn't work or sent you to a 
+* Have recently logged into a page, and it didn't work or sent you to a 
 different page?
 
-Have messages been sent from your account that you don't recognise?
+* Have messages been sent from your account that you don't recognise?
 
-Has someone told you to follow the instructions on this page?
+* Have you started getting a large amount of spam calls, emails or messages?
+
+* Has someone told you to follow the instructions on this page?
 
 If the answer to any of these questions is yes, it's possible that your 
 account has been compromised! Whilst this may seem like the end of the 
@@ -21,7 +23,7 @@ damage.
 1. Check to see if any new email addresses have been added to your 
    account. Attackers can use this to reset your password.
 
-Now that you have blocked them out, try to undo the damage they have 
+Now that you have blocked them out, try to undo any damage they have 
 done:
 
 1. Check all of your recent messages, and unsend anything you don't 
