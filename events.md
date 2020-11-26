@@ -6,6 +6,6 @@ title:  "Upcoming Events" # _posts2019-09-31-October-Events-2019-20.md
 |:-----------------|:----------|:-----------|:-----------|:-----------|
 | __Q&A__ | __25/11/2020__ | __17:00-18:00__ | __Discord__ | __[Join Discord](https://discordapp.com/invite/p6qGd3D)__ |
 | __Metasploit + Shells__ | __02/12/2020__ | __14:00-15:00__ | __YouTube/Discord__ | __[Join Discord](https://discordapp.com/invite/p6qGd3D)__ |
-| __Secarama talk__ | __09/12/2020__ | __14:00-15:00__ | __Zoom__ | _link coming soon_ |
+| __Secarma talk__ | __09/12/2020__ | __14:00-15:00__ | __Zoom__ | _link coming soon_ |
 
 Keep an eye on this page or head over to Discord for instant notifications.
