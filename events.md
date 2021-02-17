@@ -4,8 +4,6 @@ title:  "Upcoming Events" # _posts2019-09-31-October-Events-2019-20.md
 ---
 | Event | Date | Time | Location | Notes
 |:-----------------|:----------|:-----------|:-----------|:-----------|
-| __Stopping Skiddies: Defending against DoS and automated attacks__ | 10/02/21 | 17:00 | Youtube and Discord | https://youtu.be/90dvxflXw9A |
-| __Social engineering__ | 17/02/21 | 17:00 | Youtube and Discord | |
 | __Ignite your Future: Cybersecurity Industry Panel__ | 24/02/21 | 15:00 | Youtube | Q&A with cybersecurity professionals  |
 | __Hacking the blockchain__ | 03/03/21 | 17:00 | Youtube and Discord | Guest speaker |
 
