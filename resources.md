@@ -59,6 +59,7 @@ title: Resources
 | Teaches different pen testing techniques | [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |
 | HTB walkthroughs | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | 
 | YouTuber who will teach you how to think in Cyber Sec | [LiveOverflow](https://liveoverflow.com/) |
+| Game related hacking (Req: knowledge of C/C++) | [GuidedHacking](https://guidedhacking.com/threads/list-of-guidedhacking-guides.11477/) |
 
 ## Vulnerable boxes / CTFs
 
