@@ -18,9 +18,9 @@ title: Resources
 
 | No | Topic  | Date | Youtube | 
 |:---|:-------|:-----|:--------|
-|  6 | Binary |      | [YouTube](https://youtu.be/T7ohA_fv64s) |
-|  5 | Web Apps |    | [YouTube](https://youtu.be/LEAIXq0Vyoo) |
-|  4 | Wireshark |   | [YouTube](https://youtu.be/DkWJq7S_8xU) |
+|  6 | Binary | N/A | [YouTube](https://youtu.be/T7ohA_fv64s) |
+|  5 | Web Apps | N/A | [YouTube](https://youtu.be/LEAIXq0Vyoo) |
+|  4 | Wireshark | N/A | [YouTube](https://youtu.be/DkWJq7S_8xU) |
 |  3 | OSINT | 07/10/20 | [YouTube](https://www.youtube.com/watch?v=CRWhuJrXdEk&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=2) |
 |  2 | CTF Setup | 14/10/20 | [YouTube](https://www.youtube.com/watch?v=AILeheUYJPM&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=3) |
 |  1 | Introduction to reverse engineering | 21/10/20 | [YouTube](https://www.youtube.com/watch?v=_Il1pvhBRU8&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=4) |
