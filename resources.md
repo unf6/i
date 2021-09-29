@@ -15,9 +15,9 @@ title: Resources
 | A hypervisor | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) |
 
 ## Presentations 2021
-| No | Topic | Date | Pdf |
-| :- | :---- | :--- | :-- |
-| 1  | OSINT+Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
+| No   | Topic        | Date     | Pdf                                 |
+| :--- | :----------- | :------- | :---------------------------------- |
+| 1    | OSINT+Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
 
 ## Presentations 2020
 
