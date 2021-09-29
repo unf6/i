@@ -4,24 +4,25 @@ author_profile: false
 toc: true
 toc_label: "Resources"
 toc_icon: "cog"
-title: Resources 
+title: Resources
 ---
 ### Recommended Setup
 
 | Description | Download |
 |:------------|:---------|
 | Torrent Client | [Qbittorrent](https://www.qbittorrent.org/download.php) |
-| Kali VM __Default Login: kali Password: kali__ | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | 
+| Kali VM __Default Login: kali Password: kali__ | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) |
 | A hypervisor | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) |
 
 ## Presentations 2021
+
 | No   | Topic        | Date     | Pdf                                 |
 | :--- | :----------- | :------- | :---------------------------------- |
 | 1    | OSINT+Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
 
 ## Presentations 2020
 
-| No | Topic  | Date | Youtube | 
+| No | Topic  | Date | Youtube |
 |:---|:-------|:-----|:--------|
 |  6 | Binary | N/A | [YouTube](https://youtu.be/T7ohA_fv64s) |
 |  5 | Web Apps | N/A | [YouTube](https://youtu.be/LEAIXq0Vyoo) |
@@ -45,13 +46,13 @@ title: Resources
 | Category | Description | Tools |
 |:---------|:------------|:------|
 | Networks | A network packet sniffer/analyser | [Wireshark](https://www.wireshark.org/) |
-| Debugger | x86 debugger | [OllyDbg](http://www.ollydbg.de/) | 
+| Debugger | x86 debugger | [OllyDbg](http://www.ollydbg.de/) |
 | Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) | [Ghidra](https://ghidra-sre.org/ ) |
 | Disassembler | X | [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) |
 | Disassembler | X | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) |
 | Decompiler | Java decompiler | [JD-GUI](http://java-decompiler.github.io/) |
 | Decompiler | python decompiler | [Uncompyle2](https://github.com/Mysterie/uncompyle2) |
-| Web App | Web pen testing framework | [Burp Suite](https://portswigger.net/burp) | 
+| Web App | Web pen testing framework | [Burp Suite](https://portswigger.net/burp) |
 
 ## Learning resources (FREE)
 
@@ -62,7 +63,7 @@ title: Resources
 | Web security training with burp suite | [WSA by PortSwigger](https://portswigger.net/web-security) |
 | Intro to security | [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) |
 | Teaches different pen testing techniques | [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |
-| HTB walkthroughs | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) | 
+| HTB walkthroughs | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) |
 | YouTuber who will teach you how to think in Cyber Sec | [LiveOverflow](https://liveoverflow.com/) |
 | Game related hacking (Req: knowledge of C/C++) | [GuidedHacking](https://guidedhacking.com/threads/list-of-guidedhacking-guides.11477/) |
 
@@ -72,11 +73,11 @@ title: Resources
 |:------------|:------|
 | Security related wargames | [Over The Wire](https://overthewire.org/wargames/) |
 | Educational VMs and CTFs | [Try Hack Me](https://tryhackme.com/dashboard) |
-| Download vulnerable VMs | [Vuln Hub](https://www.vulnhub.com/) | 
+| Download vulnerable VMs | [Vuln Hub](https://www.vulnhub.com/) |
 | Vulnerable VMs hosted online | [Hack The Box](https://www.hackthebox.eu/home) |
 | CTF calendar | [CTF Time](https://ctftime.org/event/list/upcoming) |
 | CTFs by NYU | [CSAW CTF](https://365.csaw.io/) |
-| CTFs - Qualifiers for Defcon ctfs | [Defcon CTFs](https://ctftime.org/ctf/1/) | 
-| Cryptography challenges | [Cryptopals](https://cryptopals.com/) | 
+| CTFs - Qualifiers for Defcon ctfs | [Defcon CTFs](https://ctftime.org/ctf/1/) |
+| Cryptography challenges | [Cryptopals](https://cryptopals.com/) |
 | RE challenges | [IO Wargame](https://io.netgarage.org/) |
 | RE challenges by FireEye | [FlareOn CTFs](http://flare-on.com/) |
