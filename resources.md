@@ -14,6 +14,11 @@ title: Resources
 | Kali VM __Default Login: kali Password: kali__ | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) | 
 | A hypervisor | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) |
 
+## Presentations 2021
+| No | Topic | Date | Pdf |
+| :- | :---- | :--- | :-- |
+| 1  | OSINT+Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
+
 ## Presentations 2020
 
 | No | Topic  | Date | Youtube | 
