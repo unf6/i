@@ -18,8 +18,9 @@ title: Resources
 
 | No   | Topic        | Date     | Pdf                                 |
 | :--- | :----------- | :------- | :---------------------------------- |
+| 3    | SQLi + XSS   | 13/10/21 | [pdf](/assets/pdf/web.pdf) |
 | 2    | Kali Setup + Command Injection | 06/10/21 | [pdf](/assets/pdf/command_inject.pdf) |
-| 1    | OSINT+Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
+| 1    | OSINT + Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
 
 ## Presentations 2020
 
