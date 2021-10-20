@@ -18,6 +18,7 @@ title: Resources
 
 | No   | Topic        | Date     | Pdf                                 |
 | :--- | :----------- | :------- | :---------------------------------- |
+| 4    | Linux essentials + PrivEsc | 20/10/21 | [pdf](/assets/pdf/linux_essentials.pdf) |
 | 3    | SQLi + XSS   | 13/10/21 | [pdf](/assets/pdf/web.pdf) |
 | 2    | Kali Setup + Command Injection | 06/10/21 | [pdf](/assets/pdf/command_inject.pdf) |
 | 1    | OSINT + Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
