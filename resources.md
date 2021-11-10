@@ -18,6 +18,7 @@ title: Resources
 
 | No   | Topic        | Date     | Pdf                                 |
 | :--- | :----------- | :------- | :---------------------------------- |
+| 7    | Digital forensics | 10/11/21 | [pdf](/assets/pdf/Network_Forensics_Talk_.pdf) |
 | 6    | LFI + SSTI + SSRF + Prototype pollution | 03/11/21 | [pdf](/assets/pdf/web_extended.pdf) |
 | 5    | Password authentication and best practices | 27/10/21 | [pdf](/assets/pdf/passwords.pdf) |
 | 4    | Linux essentials + PrivEsc | 20/10/21 | [pdf](/assets/pdf/linux-essentials.pdf) |
