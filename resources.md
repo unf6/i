@@ -18,6 +18,7 @@ title: Resources
 
 | No   | Topic        | Date     | Pdf                                 |
 | :--- | :----------- | :------- | :---------------------------------- |
+| 8    | CTF things   | 17/11/21 | [pdf](assets/pdf/ctf_stuff.pdf)     |
 | 7    | Digital forensics | 10/11/21 | [pdf](/assets/pdf/Network_Forensics_Talk_.pdf) |
 | 6    | LFI + SSTI + SSRF + Prototype pollution | 03/11/21 | [pdf](/assets/pdf/web_extended.pdf) |
 | 5    | Password authentication and best practices | 27/10/21 | [pdf](/assets/pdf/passwords.pdf) |
