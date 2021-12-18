@@ -70,10 +70,16 @@ title: Resources
 | Cyber security MOOCs | [Cybrary](https://www.cybrary.it/) |
 | Web security training with burp suite | [WSA by PortSwigger](https://portswigger.net/web-security) |
 | Intro to security | [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) |
-| Teaches different pen testing techniques | [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |
-| HTB walkthroughs | [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) |
-| YouTuber who will teach you how to think in Cyber Sec | [LiveOverflow](https://liveoverflow.com/) |
 | Game related hacking (Req: knowledge of C/C++) | [GuidedHacking](https://guidedhacking.com/threads/list-of-guidedhacking-guides.11477/) |
+| InfoSec livestreams list | [InfoSecstreams](https://infosecstreams.github.io/) |
+
+### InfoSec youtubers
+- [John Hammond (InfoSec news and tutorials)](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
+- [LiveOverflow (how to think in cyber sec)](https://liveoverflow.com/)
+- [PwnFunction (vulnerability explanations)](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
+- [The Cyber Mentor (pen testing techniques)](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+- [IppSec (HTB walkthroughs)](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [Seytonic (cyber security news)](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 
 ## Vulnerable boxes / CTFs
 
