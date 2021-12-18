@@ -6,15 +6,23 @@ toc_label: "Resources"
 toc_icon: "cog"
 title: Resources
 ---
-### Recommended Setup
+## Recommended Setup
+We recommend you set up a Kali linux virtual machine to do CTF challenges in as
+kali has most of the tools you will need already installed. To set this up follow
+these steps:
 
-| Description | Download |
-|:------------|:---------|
-| Torrent Client | [Qbittorrent](https://www.qbittorrent.org/download.php) |
-| Kali VM __Default Login: kali Password: kali__ | [Kali Linux virtualbox image](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download) |
-| A hypervisor | [Virtualbox](https://www.virtualbox.org/wiki/Downloads) |
+1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+2. Download the [Kali Linux OVA](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download)
+  - Torrenting this may speed up your download; to download a torrent you need a bittorrent client. [Qbittorrent](https://www.qbittorrent.org/download.php) or [Transmission](https://transmissionbt.com) are good free bittorrent clients.
+3. Open VirtualBox
+4. Press the "import" button in the top bar
+5. In the popup select the downloaded Kali Linux OVA file
+6. Press continue and agree to the terms
+7. Press start to launch your VM
+  - The default login credentials are username: `kali` password: `kali`
 
-## Presentations 2021
+## Presentations
+### Presentations 2021
 
 | No   | Topic        | Date     | Pdf                                 |
 | :--- | :----------- | :------- | :---------------------------------- |
@@ -28,7 +36,7 @@ title: Resources
 | 2    | Kali Setup + Command Injection | 06/10/21 | [pdf](/assets/pdf/command_inject.pdf) |
 | 1    | OSINT + Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
 
-## Presentations 2020
+### Presentations 2020
 
 | No | Topic  | Date | Youtube |
 |:---|:-------|:-----|:--------|
@@ -39,7 +47,7 @@ title: Resources
 |  2 | CTF Setup | 14/10/20 | [YouTube](https://www.youtube.com/watch?v=AILeheUYJPM&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=3) |
 |  1 | Introduction to reverse engineering | 21/10/20 | [YouTube](https://www.youtube.com/watch?v=_Il1pvhBRU8&list=PLYMuRB-NHtq04-EM3ojm2mJYSC_xjd2sT&index=4) |
 
-## Presentations 2019
+### Presentations 2019
 
 | Topic  | Date | Powerpoint | Pdf |
 |:-------|:-----|:-----------|:----|
@@ -49,20 +57,7 @@ title: Resources
 | Reverse Engineering | 16/10/19 | [pptx](https://drive.google.com/file/d/1H2zpaitgvVXW6vSR3qA7K34ZEUQElzJm/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1UZTpiIxJsbtIX1HIr_KMg0F9HS6QpLn9/view?usp=sharing) |
 | CTF Fundamentals | 23/10/19 | [pptx](https://drive.google.com/file/d/1V2aVv7PPrPaJmsed1fLTH8HHFLFmtWfR/view?usp=sharing) | [pdf](https://drive.google.com/file/d/1hRfGFSC0_OTQevHJmCbBxpdso7_CX58q/view?usp=sharing) |
 
-### Other Fun Tools
-
-| Category | Description | Tools |
-|:---------|:------------|:------|
-| Networks | A network packet sniffer/analyser | [Wireshark](https://www.wireshark.org/) |
-| Debugger | x86 debugger | [OllyDbg](http://www.ollydbg.de/) |
-| Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) | [Ghidra](https://ghidra-sre.org/ ) |
-| Disassembler | X | [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) |
-| Disassembler | X | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) |
-| Decompiler | Java decompiler | [JD-GUI](http://java-decompiler.github.io/) |
-| Decompiler | python decompiler | [Uncompyle2](https://github.com/Mysterie/uncompyle2) |
-| Web App | Web pen testing framework | [Burp Suite](https://portswigger.net/burp) |
-
-## Learning resources (FREE)
+## Learning resources
 
 | Description | Link |
 |:------------|:------|
@@ -95,3 +90,17 @@ title: Resources
 | Cryptography challenges | [Cryptopals](https://cryptopals.com/) |
 | RE challenges | [IO Wargame](https://io.netgarage.org/) |
 | RE challenges by FireEye | [FlareOn CTFs](http://flare-on.com/) |
+
+## Other Fun Tools
+
+| Category | Description | Tools |
+|:---------|:------------|:------|
+| Networks | A network packet sniffer/analyser | [Wireshark](https://www.wireshark.org/) |
+| Debugger | x86 debugger | [OllyDbg](http://www.ollydbg.de/) |
+| Reverse Engineering | NSA RE tool [.text fix](https://www.youtube.com/watch?v=WENXr6iDu8A) | [Ghidra](https://ghidra-sre.org/ ) |
+| Disassembler | X | [IDApro (Freeware)](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) |
+| Disassembler | X | [IDApro (Evaluation)](https://out7.hex-rays.com/demo/request) |
+| Decompiler | Java decompiler | [JD-GUI](http://java-decompiler.github.io/) |
+| Decompiler | python decompiler | [Uncompyle2](https://github.com/Mysterie/uncompyle2) |
+| Web App | Web pen testing framework | [Burp Suite](https://portswigger.net/burp) |
+
