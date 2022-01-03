@@ -67,6 +67,7 @@ these steps:
 | Intro to security | [Cyber Aces by SANS](https://www.cyberaces.org/courses.html) |
 | Game related hacking (Req: knowledge of C/C++) | [GuidedHacking](https://guidedhacking.com/threads/list-of-guidedhacking-guides.11477/) |
 | InfoSec livestreams list | [InfoSecstreams](https://infosecstreams.github.io/) |
+| Exploit cheat sheet | [HackTricks](https://book.hacktricks.xyz/)
 
 ### InfoSec youtubers
 - [John Hammond (InfoSec news and tutorials)](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
@@ -103,4 +104,4 @@ these steps:
 | Decompiler | Java decompiler | [JD-GUI](http://java-decompiler.github.io/) |
 | Decompiler | python decompiler | [Uncompyle2](https://github.com/Mysterie/uncompyle2) |
 | Web App | Web pen testing framework | [Burp Suite](https://portswigger.net/burp) |
-
+| AutoRecon | Automatically scan services with an array of pentesting tools | [AutoRecon](https://github.com/Tib3rius/AutoRecon) |
