@@ -26,6 +26,7 @@ these steps:
 
 | No   | Topic        | Date     | Pdf                                 |
 | :--- | :----------- | :------- | :---------------------------------- |
+| 10   | Log4Shell    | 02/02/22 | [pdf](/assets/pdf/log4shell.pdf)    |
 | 9    | Memory Forensics | 01/12/21 | [pdf](/assets/pdf/volatility.pdf) |
 | 8    | CTF things   | 17/11/21 | [pdf](/assets/pdf/ctf_stuff.pdf)     |
 | 7    | Digital forensics | 10/11/21 | [pdf](/assets/pdf/Network_Forensics_Talk_.pdf) |
