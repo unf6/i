@@ -12,7 +12,7 @@ kali has most of the tools you will need already installed. To set this up follo
 these steps:
 
 1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-2. Download the [Kali Linux OVA](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download)
+2. Download the [Kali Linux OVA](https://www.kali.org/get-kali/#kali-virtual-machines)
   - Torrenting this may speed up your download; to download a torrent you need a bittorrent client. [Qbittorrent](https://www.qbittorrent.org/download.php) or [Transmission](https://transmissionbt.com) are good free bittorrent clients.
 3. Open VirtualBox
 4. Press the "import" button in the top bar
