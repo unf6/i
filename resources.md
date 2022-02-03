@@ -34,7 +34,7 @@ these steps:
 | 5    | Password authentication and best practices | 27/10/21 | [pdf](/assets/pdf/passwords.pdf) |
 | 4    | Linux essentials + PrivEsc | 20/10/21 | [pdf](/assets/pdf/linux_essentials.pdf) |
 | 3    | SQLi + XSS   | 13/10/21 | [pdf](/assets/pdf/web.pdf) |
-| 2    | Kali Setup + Command Injection | 06/10/21 | [pdf](./assets/pdf/command-injection.pdf) |
+| 2    | Kali Setup + Command Injection | 06/10/21 | [pdf](/assets/pdf/command-injection.pdf) |
 | 1    | OSINT + Crypto | 29/09/21 | [pdf](/assets/pdf/osint_crypto.pdf) |
 
 ### Presentations 2020
