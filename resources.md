@@ -24,8 +24,9 @@ these steps:
 ## Presentations
 ### Presentations 2021
 
-| No   | Topic        | Date     | Pdf                                 |
+| No   | Topic        | Date     | Files                               |
 | :--- | :----------- | :------- | :---------------------------------- |
+| 11   | Binary Exploitation | 09/02/22 | [pdf](/assets/pdf/binary_exploitation.pdf) [demo files](/assets/files/pwnv2.zip) |
 | 10   | Log4Shell    | 02/02/22 | [pdf](/assets/pdf/log4shell.pdf)    |
 | 9    | Memory Forensics | 01/12/21 | [pdf](/assets/pdf/volatility.pdf) |
 | 8    | CTF things   | 17/11/21 | [pdf](/assets/pdf/ctf_stuff.pdf)     |
