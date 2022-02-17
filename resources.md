@@ -26,6 +26,7 @@ these steps:
 
 | No   | Topic        | Date     | Files                               |
 | :--- | :----------- | :------- | :---------------------------------- |
+| 12   | Wireless Attacks | 16/02/22 | [pdf](/assets/pdf/wireless_attacks.pdf) |
 | 11   | Binary Exploitation | 09/02/22 | [pdf](/assets/pdf/binary_exploitation.pdf) [demo files](/assets/files/pwnv2.zip) |
 | 10   | Log4Shell    | 02/02/22 | [pdf](/assets/pdf/log4shell.pdf)    |
 | 9    | Memory Forensics | 01/12/21 | [pdf](/assets/pdf/volatility.pdf) |
