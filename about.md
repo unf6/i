@@ -11,7 +11,6 @@ If you'd like to get in touch with us you find us here:\
 [https://www.cybersoc.cf/discord](/discord) <-- Fastest response times\
 [cybersecurity@society.liverpoolguild.org](mailto:cybersecurity@society.liverpoolguild.org)
 
-# Current
 | Year | President | Vice | Secretary | Events & Sponsorship | Treasurer |
 |:-----|:----------|:-----|:----------|:---------------------|:----------|
 | 21/22 | Tom H | Matthew H | Harlan C | Meg G | Elliot G |
