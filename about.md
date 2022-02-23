@@ -16,7 +16,7 @@ If you'd like to get in touch with us you find us here:\
 |:-----|:----------|:-----|:----------|:---------------------|:----------|
 | 21/22 | Tom H | Matthew H | Harlan C | Meg G | Elliot G |
 
-# Past Committee
+# Past Years
 
 | Year | President | Vice | Secretary | Events & Sponsorship | Treasurer |
 |:-----|:----------|:-----|:----------|:---------------------|:----------|
