@@ -26,7 +26,8 @@ these steps:
 
 | No   | Topic        | Date     | Files                               |
 | :--- | :----------- | :------- | :---------------------------------- |
-| 13   | Reverse engineering + Cracking | 02/03/22 | [pdf](./assets/pdf/reverse-engineering.pdf) [demo files](./assets/files/reverse.zip) |
+| 14   | Big Hak Preppers | 16/03/22 | [pdf](/assets/pdf/big_hak_prep.pdf) |
+| 13   | Reverse engineering + Cracking | 02/03/22 | [pdf](/assets/pdf/reverse-engineering.pdf) [demo files](/assets/files/reverse.zip) |
 | 12   | Wireless Attacks | 16/02/22 | [pdf](/assets/pdf/wireless_attacks.pdf) |
 | 11   | Binary Exploitation | 09/02/22 | [pdf](/assets/pdf/binary_exploitation.pdf) [demo files](/assets/files/pwnv2.zip) |
 | 10   | Log4Shell    | 02/02/22 | [pdf](/assets/pdf/log4shell.pdf)    |
