@@ -13,7 +13,7 @@ If you'd like to get in touch with us you find us here:\
 
 | Year | President | Vice | Secretary | Events & Sponsorship | Treasurer |
 |:-----|:----------|:-----|:----------|:---------------------|:----------|
-| 21/22 | Tom H | Matthew H | Harlan C | Meg G | Elliot G |
+| 21/22 | Tom H | Matthew H | Harlan C | Meg G / Ben K | Elliot G |
 | 20/21 | Harlan C | Michal A | Matthew H | Meg G | Perry H |
 | 19/20 | Perry H | Michal A | Mahir H | Meg G | Tim F |
 | 18/19 | Perry H | Andrew L | Glen G | Brandon S | Tim F |
