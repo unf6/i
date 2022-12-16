@@ -23,6 +23,7 @@ these steps:
 
 ## Presentations
 ### Presentations 2022
+
 | No  | Topic                  | Date     | Files                                 |
 | :-- | :--------------------- | :------- | :------------------------------------ |
 | 10  | Steganography          | 30/11/22 | [pdf](/assets/pdf/SteganographyCyberP.pdf) |
