@@ -22,6 +22,15 @@ these steps:
   - The default login credentials are username: `kali` password: `kali`
 
 ## Presentations
+### Presentations 2022
+| No  | Topic                  | Date     | Files                                 |
+| :-- | :--------------------- | :------- | :------------------------------------ |
+| 10  | Steganography          | 30/11/22 | [pdf](/assets/pdf/SteganographyCyberP.pdf) |
+| 8   | Cross-Site Scripting   | 16/11/22 | [pdf](/assets/pdf/xss.pdf) |
+| 4   | Privilege Escalation   | 19/10/22 | [pdf](/assets/pdf/privesc1.pdf) |
+| 3   | Command Injection      | 12/10/22 | [pdf](/assets/pdf/Shells_Command_Injection_And_meterpreter.pdf) |
+| 1   | Welcome session        | 28/09/22 | [pdf](/assets/pdf/First_Session.pdf)  |
+
 ### Presentations 2021
 
 | No   | Topic        | Date     | Files                               |
