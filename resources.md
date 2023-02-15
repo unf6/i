@@ -26,6 +26,7 @@ these steps:
 
 | No  | Topic                  | Date     | Files                                 |
 | :-- | :--------------------- | :------- | :------------------------------------ |
+| 14  | Linux                  | 15/02/23 | [pdf](/assets/pdf/linux.pdf)          |
 | 10  | Steganography          | 30/11/22 | [pdf](/assets/pdf/SteganographyCyberP.pdf) |
 | 8   | Cross-Site Scripting   | 16/11/22 | [pdf](/assets/pdf/xss.pdf) |
 | 4   | Privilege Escalation   | 19/10/22 | [pdf](/assets/pdf/privesc1.pdf) |
