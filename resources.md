@@ -26,6 +26,7 @@ these steps:
 
 | No  | Topic                  | Date     | Files                                 |
 | :-- | :--------------------- | :------- | :------------------------------------ |
+|     | SQLi + Command Injection | 01/03/23 | [pdf](/assets/pdf/sqli.pdf) |
 | 14  | Linux                  | 15/02/23 | [pdf](/assets/pdf/linux.pdf)          |
 | 10  | Steganography          | 30/11/22 | [pdf](/assets/pdf/SteganographyCyberP.pdf) |
 | 8   | Cross-Site Scripting   | 16/11/22 | [pdf](/assets/pdf/xss.pdf) |
