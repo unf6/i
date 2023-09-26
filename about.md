@@ -13,6 +13,7 @@ If you'd like to get in touch with us you find us here:\
 
 | Year | President | Vice | Secretary | Events & Sponsorship | Treasurer |
 |:-----|:----------|:-----|:----------|:---------------------|:----------|
+| 23/24 | Rohan K | | Matthew V | Alice L | Jack H |
 | 22/23 | Harlan C / Tom H | | Tom H / Rohan K | Tevy K | Matthew H |
 | 21/22 | Tom H | Matthew H | Harlan C | Meg G / Ben K | Elliot G |
 | 20/21 | Harlan C | Michal A | Matthew H | Meg G | Perry H |
