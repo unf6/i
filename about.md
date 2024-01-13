@@ -3,11 +3,11 @@ layout: single
 author_profile: false
 ---
 
-We're the Cyber Security Society - Aka CyberSoc - at the University of Liverpool, we aim to provide a home for students to learn more about security and hacking in a fun, safe manner.
+We are the Cyber Security Society, known as CyberSoc, at the University of Liverpool. Our mission is to create a welcoming environment for students to explore the realms of security and hacking in an enjoyable and secure way.
 
-We primarily organise workshops, hold talks from industry and compete in CTFs but we're always looking for new events to run and people to meet!
+Our main activities include organizing engaging workshops, hosting informative talks by industry professionals, and participating in Capture The Flag (CTF) competitions. However, we are constantly on the lookout for fresh event ideas and opportunities to connect with new individuals who share our passion!
 
-If you'd like to get in touch with us you find us here:\
+If you'd like to get in touch with us you find us below:\
 [https://www.cybersoc.cf/discord](/discord) <-- Fastest response times\
 [cybersecurity@society.liverpoolguild.org](mailto:cybersecurity@society.liverpoolguild.org)
 
